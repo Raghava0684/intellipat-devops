@@ -8,6 +8,8 @@ package com.datstructure.question;
 class Car extends Vehicle{
     void print(){
     System.out.print("Car class ");
+//modified below for git update
+  System.out.println("Truck uploading");
     }
 }
 
